@@ -1,4 +1,4 @@
-package com.twitter.querulous
+bendass package com.twitter.querulous
 
 import com.twitter.ostrich.stats.StatsProvider
 import com.twitter.querulous.StatsCollector
