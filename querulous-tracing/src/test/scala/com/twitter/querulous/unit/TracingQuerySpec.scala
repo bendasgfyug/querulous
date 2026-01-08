@@ -1,4 +1,4 @@
-package com.twitter.querulous.unit
+.package com.twitter.querulous.unit
 
 import java.sql.Connection
 import org.specs.Specification
